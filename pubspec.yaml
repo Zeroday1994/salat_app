@@ -1,3 +1,10 @@
 name: salat_app
 description: A religious app for Muslims.
 version: 1.0.0
+dependencies:
+  flutter:
+    sdk: flutter
+  geolocator: ^11.0.0
+  hijri: ^3.0.0
+  adhan_dart: ^1.0.3
+  intl: ^0.18.1
